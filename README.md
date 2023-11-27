@@ -29,8 +29,8 @@
 
 результатом выполенения команды будет нечто подобное:
 
-REPOSITORY   TAG       IMAGE ID       CREATED         SIZE
-<none>       <none>    65cd904cb447   2 minutes ago   229MB
+**REPOSITORY   TAG       IMAGE ID       CREATED         SIZE**
+**<none>       <none>    65cd904cb447   2 minutes ago   229MB**
 
 Скопируй  IMAGE ID (в примере выше "65cd904cb447").
 В терминале ввведи команду:
