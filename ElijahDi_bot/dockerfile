@@ -1,0 +1,5 @@
+FROM python:3.11-slim
+ENV TOKEN='Your TOKEN'
+COPY . .
+RUN pip install -r req.txt
+CMD python bot.py
